@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robstarxy
-- 👀 I’m interested in neural networks and recommender systems
+- 👀 I’m interested in neural networks, cluster algorithms and recommender systems
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: message on GitHub
 
