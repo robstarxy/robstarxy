@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robstarxy
+- 👋 Hi, I’m @robstarxy and I am a Cognitive Science Master student
 - 👀 I’m interested in neural networks, cluster algorithms and recommender systems
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: message on GitHub
