@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robstarxy and I am a Cognitive Science Master student
 - 👀 I’m interested in neural networks, cognitive modelling, dynamical systems and game theory
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Julia
 - 📫 How to reach me: message on GitHub
 
 
