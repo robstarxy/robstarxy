@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robstarxy and I am a Cognitive Science Master student
-- 👀 I’m interested in neural networks, optimization and cluster algorithms
+- 👀 I’m interested in neural networks, cognitive modelling, dynamical systems and game theory
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: message on GitHub
 
