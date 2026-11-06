@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robstarxy and I am a Cognitive Science Master student
-- 👀 I’m interested in dynamics on and of networks, machine learning and game theory
+- 👀 I’m interested in dynamical systems, machine learning and game theory
 - 🌱 I’m currently learning Python and Julia
 - 📫 How to reach me: message on GitHub
 
